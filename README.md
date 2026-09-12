@@ -95,6 +95,7 @@ These screenshots demonstrate the dashboard's responsive design, real-time visua
 
 ## Deployment
 This Next.js application is ready to be deployed to Vercel, AWS Amplify, or any Node.js hosting platform with zero configuration required.
+(https://performance-data-dashboard-omega.vercel.app/dashboard)
 
 ## Project Structure
 ```text
